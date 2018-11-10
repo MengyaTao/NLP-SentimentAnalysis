@@ -1,4 +1,4 @@
-                                     FALL2016 CS273 Course Project 
+                                                 Computer Science 273 Course Project 
 
 Project Title:
 ------------------------------
