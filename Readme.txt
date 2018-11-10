@@ -4,17 +4,11 @@ Project Title:
 ------------------------------
 Sentiment analysis on anthropogenic climate change in the scientific literature using natural language processing
 
-
-Project Authors:
------------------------------- 
-Mengya Tao & Yingchun Du
-
-
 Documentation
 ------------------------------
-	This project submissions contain three sub-folders (code, data, figure) and two documents:
+	This project submissions contain three sub-folders (src, data, figure) and two documents:
 
-	code:
+	src:
 		main_NN.py #run neural networks models and run making plots
 		NeuralNetwork.py #hand coded neural network algorithm to a function
 		main_RF_SVM.py #run random forest and support vector machine models
@@ -44,14 +38,8 @@ Documentation
 		lambda.png
 		learning_rate.png
 		neurons.png
-	
-	
-	Report_MengyaTao_YingchunDu.pdf
-
-	CS273_Project_Mengya_Yingchun.ppt
 
 
 Contact
 ------------------------------
-Mengya Tao: mengya@umail.ucsb.edu
-Yingchun Du: ydu@umail.ucsb.edu
+Mengya Tao: mengya@ucsb.edu
